@@ -1,1 +1,1 @@
-# Countdown-Timer
+# 5bit Binary Countdown Timer
